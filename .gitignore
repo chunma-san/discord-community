@@ -1,0 +1,38 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+bot.env
+*.key
+*.pem
+# Runtime data and personal archives
+data/
+state/
+session/
+sessions/
+reports/
+backups/
+logs/
+downloads/
+*.db
+*.db-*
+*.sqlite*
+*.session*
+*.log
+*.archive
+state.json
+library.json
+library.html
+library.md
+cookies*.txt
+# Build and environment files
+venv/
+.venv/
+__pycache__/
+*.pyc
+bin/
+obj/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
