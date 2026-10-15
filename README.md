@@ -9,12 +9,16 @@
 <!-- discord-presence:start -->
 <p align="center">
   <a href="https://discord.com/users/891081797318897715">
-    <img src="https://lanyard.cnrad.dev/api/891081797318897715?theme=dark&amp;bg=0d1117&amp;borderRadius=16px&amp;showDisplayName=true&amp;animated=true&amp;animatedDecoration=true" alt="Discord profile and live activity" />
+    <img src="https://lanyard.cnrad.dev/api/891081797318897715?theme=dark&amp;bg=100b0d&amp;borderRadius=16px&amp;showDisplayName=true&amp;animated=true&amp;animatedDecoration=true" alt="Discord profile and live activity" />
   </a>
 </p>
 <!-- discord-presence:end -->
 
 ![Discord Community: animated project banner](assets/banner.svg)
+
+<!-- project-navigation:start -->
+<p align="center"><a href="https://github.com/chunma-san">Profile &amp; projects</a> · <a href="#quick-start">Quick start</a> · <a href="https://github.com/chunma-san/discord-community/issues">Issues</a></p>
+<!-- project-navigation:end -->
 
 # Discord Community
 
