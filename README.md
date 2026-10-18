@@ -103,3 +103,13 @@ See [VALIDATION.md](VALIDATION.md) for the checks performed on this publication 
 This repository is a configurable source distribution. It does not include a production database, personal saved-link collection, message archive, credentials, media library or existing Git history. Review local changes before committing them.
 
 Third-party APIs, libraries and products remain the work of their respective maintainers. Review their terms and licenses before redistribution or deployment. The original project artwork is stored locally; it does not depend on a remote GIF or tracking service.
+
+<!-- CAT-COUNTER:START -->
+## Project visits
+
+<p align="center">
+  <img src="https://count.himiku.com/@chunma-discord-communit-eeb836?theme=capoo-2&amp;padding=6&amp;scale=0.8&amp;darkmode=1" alt="Cute cat project visits counter" />
+</p>
+
+*Approximate README image loads since October 2026, not unique people. GitHub image caching and automated requests affect this count.*
+<!-- CAT-COUNTER:END -->
