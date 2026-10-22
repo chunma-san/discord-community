@@ -14,14 +14,6 @@
 </p>
 <!-- typing-title:end -->
 
-<!-- discord-presence:start -->
-<p align="center">
-  <a href="https://discord.com/users/891081797318897715">
-    <img src="https://lanyard.cnrad.dev/api/891081797318897715?theme=dark&amp;bg=100b0d&amp;borderRadius=16px&amp;showDisplayName=true&amp;animated=true&amp;animatedDecoration=true" alt="Discord profile and live activity" />
-  </a>
-</p>
-<!-- discord-presence:end -->
-
 <!-- project-navigation:start -->
 <p align="center"><a href="https://github.com/chunma-san">Profile &amp; projects</a> · <a href="#quick-start">Quick start</a> · <a href="https://github.com/chunma-san/discord-community/issues">Issues</a></p>
 <!-- project-navigation:end -->
@@ -107,4 +99,4 @@ See [VALIDATION.md](VALIDATION.md) for the checks performed on this publication 
 
 This repository is a configurable source distribution. It does not include a production database, personal saved-link collection, message archive, credentials, media library or existing Git history. Review local changes before committing them.
 
-Third-party APIs, libraries and products remain the work of their respective maintainers. Review their terms and licenses before redistribution or deployment. The original project artwork is stored locally; it does not depend on a remote GIF or tracking service.
+Third-party APIs, libraries and products remain the work of their respective maintainers. Review their terms and licenses before redistribution or deployment.
