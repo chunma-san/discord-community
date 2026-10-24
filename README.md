@@ -108,3 +108,10 @@ See [VALIDATION.md](VALIDATION.md) for the checks performed on this publication 
 This repository is a configurable source distribution. It does not include a production database, personal saved-link collection, message archive, credentials, media library or existing Git history. Review local changes before committing them.
 
 Third-party APIs, libraries and products remain the work of their respective maintainers. Review their terms and licenses before redistribution or deployment.
+
+<!-- project-maintainer-credit -->
+## Contributors
+
+- [chunma-san](https://github.com/chunma-san) — Project maintenance and development.
+
+Original contributors retain their authorship and license notices. See the repository history for individual contributions.
